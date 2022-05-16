@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalfan-alyammahi
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning data structure and algorithms
+- 👀 I’m interested in coding (software engineering)
+- 🌱 I’m currently learning data structure and algorithms and android studio (mobile development)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
